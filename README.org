@@ -1,15 +1,7 @@
-
-# Table of Contents
-
-1.  [file-mode.js](#org46ab128)
-
-
-<a id="org46ab128"></a>
-
-# file-mode.js
+* file-mode.js
 
 I often want to extract details regarding a file using the 'mode' property from
-the node `fs.stat()` command. However, I always forget the structure and bit
+the node ~fs.stat()~ command. However, I always forget the structure and bit
 mask details. This is a very simple utility to make this a little easier. 
 
 There are probably other utilities out there which do the same thing and
