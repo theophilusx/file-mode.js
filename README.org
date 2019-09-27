@@ -9,3 +9,6 @@ probably written in a more concise and clearer manner. However, part of learning
 is doing. I have also written this in a way which should make it easy for me to
 cut and paste when I need this type of functionality. 
 
+This has only been tested on Linux. I know little about Windows and expect it
+will work OK on macOS. 
+
