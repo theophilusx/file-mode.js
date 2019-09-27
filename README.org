@@ -12,3 +12,10 @@ cut and paste when I need this type of functionality.
 This has only been tested on Linux. I know little about Windows and expect it
 will work OK on macOS. 
 
+** Usage
+
+1. Clone the repository
+2. Make sure the executable bit is set on the ~src/index.js~ file
+3. Run the script as ./index.js <path to file>
+
+

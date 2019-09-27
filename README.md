@@ -1,10 +1,11 @@
 
 # Table of Contents
 
-1.  [file-mode.js](#org7bf4d4e)
+1.  [file-mode.js](#orgc5a99b6)
+    1.  [Usage](#org3b4680e)
 
 
-<a id="org7bf4d4e"></a>
+<a id="orgc5a99b6"></a>
 
 # file-mode.js
 
@@ -19,4 +20,13 @@ cut and paste when I need this type of functionality.
 
 This has only been tested on Linux. I know little about Windows and expect it
 will work OK on macOS. 
+
+
+<a id="org3b4680e"></a>
+
+## Usage
+
+1.  Clone the repository
+2.  Make sure the executable bit is set on the `src/index.js` file
+3.  Run the script as ./index.js <path to file>
 
